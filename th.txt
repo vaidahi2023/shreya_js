@@ -1,0 +1,21 @@
+JAVA SCRIPT:
+progamming language: c,cpp,java
+scripting language: python,javascript,shell
+scripting language is subset of programming language
+
+java script:client side language 
+
+javascript is write in script tag 
+
+javascript will be run on browser
+
+java script was developed by netscape
+
+first engine of java script was spider monkey firefox
+
+javascript compiler : babel
+browser will have js engine
+
+ways to write js:
+1.internal js 
+2.external js 
