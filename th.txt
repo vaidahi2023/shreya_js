@@ -19,3 +19,18 @@ browser will have js engine
 ways to write js:
 1.internal js 
 2.external js 
+
+operators 
+
+arithimetic operators
+    --- +,-,*,/,%,++,--
+assignment operators
+    --- +=,-=,*=,/=,%=
+comparison operators 
+    --- >,<,==,<=,>=,!=
+logical operators
+    --- && -- and 
+        || -- or 
+        ! -- not
+ternary operators
+    --?:
