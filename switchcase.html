@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        /*
+        switch(variable)
+        {
+            case 1:
+                   //statement
+                   break;
+            case 2:
+                   //statement
+                   break;
+            default:
+                //statement
+        }
+        */
+        var a,b,choice
+        a=parseInt(prompt("Enter the number:"))
+        b=parseInt(prompt("Enter the number"))
+        choice=parseInt(prompt("1.addition\n2.subtraction\n3.multiplication\n4.division\nEnter the choice"))
+
+        switch (choice) {
+            case 1:
+                alert("sum="+(a+b))
+                break;
+            case 2:
+                alert("sub="+(a-b))
+                break;
+            case 3:
+                alert("mul="+(a*b))
+                break;
+            case 4:
+                alert("div="+(a/b))
+                break;
+            default:
+                alert("invalid choice")
+                break;
+        }
+    </script>
+</body>
+</html>
