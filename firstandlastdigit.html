@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var n,fd,ld
+        n=parseInt(prompt("Enter the number:"))
+        ld=n%10
+        for(;n>0;)
+        {
+            fd=n;
+            n=Math.floor(n/10)
+        }
+        alert("first digit is "+fd+" last digit is "+ld)
+    </script>
+</body>
+</html>
